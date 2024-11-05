@@ -49,13 +49,6 @@ This project is a simple and responsive note-taking web application built using 
    
 2. Open `index.html` in your browser to view and use the app.
 
-## Screenshots
-
-### Main View
-Displays all saved notes with options to edit or delete.
-
-### Popup
-A modal popup for adding a new note or updating an existing note.
 
 ## Technologies Used
 
