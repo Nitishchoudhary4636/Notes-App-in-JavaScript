@@ -1,6 +1,7 @@
 # Note-Taking Web App
 
 This project is a simple and responsive note-taking web application built using HTML, CSS, and JavaScript. It allows users to create, update, and delete notes, storing them locally in the browser using `localStorage`.
+link- https://nitishchoudhary4636.github.io/Notes-App-in-JavaScript/
 
 ## Features
 
